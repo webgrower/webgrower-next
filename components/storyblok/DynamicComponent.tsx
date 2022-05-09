@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import Page from "./Page";
 
 // resolve Storyblok components to Next.js components
